@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace AuroraGSI
@@ -18,7 +18,7 @@ namespace AuroraGSI
 
         public class ProviderNode
         {
-            public string name = "tmodloader";
+            public string name = "tmodloader (2)";
             public int appid = 1281930;
         }
 
